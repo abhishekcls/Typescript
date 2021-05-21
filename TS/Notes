@@ -1,0 +1,22 @@
+arr-> 5
+
+input arr -> process -> output arr/val
+
+map
+5 -> 5
+filter
+5 -> 0-5
+reduce
+5 -> 1 value
+
+-------------------
+thisArgs
+multitypearray
+
+--------------------
+1.Generics
+abstract class
+application of destructuring demos
+//Modulalize
+2.Namespace
+3.Module

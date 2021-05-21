@@ -1,0 +1,37 @@
+1. arrow function
+2. block scope -> let, const
+3. destructuring
+4. class
+5. spread rest (...)
+6. template literal/string
+7. for..of
+8. default parameters
+
+arrow function/lambda
+
+=>  fat  js,ts,c#
+->  thin  java
+
+function abc(){
+    //body
+}
+abc=function(){
+    //body
+}
+abc=()=>{
+    //body
+}
+
+es5
+
+closure
+
+function abc(){
+    var a=10;
+    function xyz(){
+
+    }
+    function bbc(){
+
+    }
+}

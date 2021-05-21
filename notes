@@ -1,0 +1,20 @@
+Higher Order Function -> 
+
+function -> First Class Object
+
+
+function abc(){}
+xyz(abc);
+
+1. standard/named
+2. anonymous
+3. IIFE
+4. arrow
+
+==========================================
+
+TypeScript -> ts
+
+TypeScript is superset of JavaScript
+
+TypeScript= JavaScript + extra features(type+...)
